@@ -81,11 +81,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/IsaX01/IsaX01/main/assets/bar_graph.png)
-
-
  Last Updated on 21/10/2024 14:32:05 UTC
 <!--END_SECTION:waka-->
 
